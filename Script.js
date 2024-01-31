@@ -12,6 +12,6 @@ function login() {
         window.location.href = "hjem.html";
     } else {
         errorMessage.innerHTML = "Feil brukernavn eller passord. Prøv igjen.";
-        errorMessage.style.color = "red";
+        errorMessage.style.color = "#ff8906";
     }
 }

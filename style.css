@@ -3,17 +3,18 @@
 
 body {
     font-family: anton;
-    background-color: #f2f2f2;
+    color: #fffffe;
     margin: 0;
     display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-image: url();
+    background-image: url(wallpaperflare.com_wallpaper.jpg);
 }
 
 .container {
-    background-color: #fff;
+
+    background: rgba(2, 27, 44, 0.6);
     padding: 50px;
     width: 400px;
     border-radius: 8px;
