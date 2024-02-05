@@ -9,7 +9,8 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-image: url();
+    background-image: url(wallpaperflare.com_wallpaper\ \(1\).jpg);
+    background-size: cover;
 }
 
 .container {
